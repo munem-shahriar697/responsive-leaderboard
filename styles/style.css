@@ -44,7 +44,7 @@ hr{
     width: 56px;
     height: 56px;
 }
-.player-name{
+.players .player .player-name{
     margin-left: 16px;
     font-size: 18px;
 }
